@@ -1,0 +1,5 @@
+out/
+*.class
+data/*.dat
+.vscode/
+.idea/
